@@ -34,7 +34,7 @@ I added validation for non-integer values or strings.
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: In-memory cache
+:heavy_check_mark: In-memory cache \
 :heavy_check_mark: Per-endpoint cache
 
 ## :rocket: Technologies ##
